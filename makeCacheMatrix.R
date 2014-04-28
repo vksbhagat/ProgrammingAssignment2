@@ -1,3 +1,5 @@
+## makeCacheMatrix created a list of functions including setting inverse and getting inverse
+## calculate the inverse for the first time run and save it for the cache use.
 makeCacheMatrix <- function(x = numeric())
 {
         s <- NULL
